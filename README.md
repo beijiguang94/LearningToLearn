@@ -1,3 +1,5 @@
+官方解读见 https://analyticsindiamag.com/guide-to-mbirl-model-based-inverse-reinforcement-learning/
+
 # LearningToLearn
 This repository contains code for 
 * ML3: Meta-Learning via Learned Losses, presented at ICPR 2020, *won best student award* ([pdf](https://arxiv.org/pdf/1906.05374.pdf))
